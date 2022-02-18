@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
+title: Program Note book
+description: A full notebook.
+baseurl: /
